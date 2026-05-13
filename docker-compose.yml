@@ -1,0 +1,9 @@
+services:
+  agentbridge-ai-studio:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      AGENTBRIDGE_DB_PATH: /app/data/agentbridge_ai.db
