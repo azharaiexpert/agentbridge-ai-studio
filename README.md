@@ -1,6 +1,6 @@
 # AgentBridge AI Studio
 
-AgentBridge AI Studio is a local, open-source, **LLM-only AI Agent Orchestration Platform** built around the challenge requirements: configurable agents, real tool execution, asynchronous multi-agent workflows, persistent history, visual workflow management, WhatsApp integration, live monitoring, and documentation.
+AgentBridge AI Studio is a local, open-source, **LLM-only AI Agent Orchestration Platform** built around: configurable agents, real tool execution, asynchronous multi-agent workflows, persistent history, visual workflow management, WhatsApp integration, live monitoring, and documentation.
 
 Developed by **Azhar** · LinkedIn: https://www.linkedin.com/in/azhar786
 
